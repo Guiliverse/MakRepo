@@ -5,7 +5,7 @@ import Layout from '../../components/layout';
 export default function FirstPost() {
   return (
 
-    <>
+
     <Layout>
       <Head>
         <title>First Post</title>
@@ -22,6 +22,6 @@ export default function FirstPost() {
           width={144}
           alt = "Your Name" />
     </Layout>
-    </>
+
   );
 }
